@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# Author Rune Mostad
 
 import telnetlib
 import time
